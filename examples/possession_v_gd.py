@@ -77,6 +77,6 @@ plt.text(xmax-11.5, ymax-4.5, "Circle size indicates goal difference.\nGreen cir
 
 fig = plt.gcf()
 fig.set_size_inches((1920/96, 1080/96), forward=False)
-fig.savefig("results/poss_v_gd_2.png", dpi=96)
+fig.savefig("results/poss_v_gd.png", dpi=96)
 
 plt.show()
