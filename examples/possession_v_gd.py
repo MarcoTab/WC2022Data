@@ -3,7 +3,7 @@ import numpy as np
 from math import log
 import pandas as pd
 
-dataframe = pd.read_csv("wc2022matchdata.csv", header=0)
+dataframe = pd.read_csv("data/wc2022matchdata.csv", header=0)
 
 # This command gets all the values currently available :)
 existing = dataframe[dataframe.home_possession.notna()]
