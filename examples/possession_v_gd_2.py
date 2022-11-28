@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from math import log2
 import pandas as pd
 
 dataframe = pd.read_csv("wc2022matchdata.csv", header=0)

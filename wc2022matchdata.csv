@@ -22,11 +22,11 @@ game,home,away,home_possession,home_goals,home_xgoals,home_shots,home_shotsontar
 21,tunisia,australia,0.58,0,0.9,14,4,494,0.76,16,3,0,3,5,0.42,1,0.6,9,2,351,0.68,15,0,0,0,2,group
 22,poland,saudi arabia,0.36,2,1.6,9,3,299,0.76,18,3,0,0,4,0.64,0,1.7,16,5,534,0.85,15,2,0,0,5,group
 23,france,denmark,0.48,2,2.4,21,7,491,0.85,4,1,0,1,6,0.52,1,0.6,10,2,528,0.86,9,2,0,1,4,group
-24,argentina,mexico,0.59,2,,5,2,528,0.84,15,1,0,2,4,0.41,0,,4,1,370,0.76,19,4,0,4,2,group
-25,japan,costa rica,,,,,,,,,,,,,,,,,,,,,,,,,group
-26,belguim,morocco,,,,,,,,,,,,,,,,,,,,,,,,,group
-27,croatia,canada,,,,,,,,,,,,,,,,,,,,,,,,,group
-28,spain,germany,,,,,,,,,,,,,,,,,,,,,,,,,group
+24,argentina,mexico,0.59,2,0.3,5,2,528,0.84,15,1,0,2,4,0.41,0,0.3,4,1,370,0.76,19,4,0,4,2,group
+25,japan,costa rica,0.57,0,0.8,13,3,581,0.86,22,3,0,0,5,0.43,1,0.1,4,1,444,0.79,9,3,0,2,0,group
+26,belgium,morocco,0.67,0,0.7,10,3,647,0.88,10,1,0,3,9,0.33,2,0.6,10,4,326,0.84,14,1,0,3,1,group
+27,croatia,canada,0.48,4,2.6,13,10,442,0.84,13,2,0,1,5,0.52,1,0.5,8,2,472,0.84,5,2,0,3,2,group
+28,spain,germany,0.65,1,0.6,7,3,637,0.85,13,1,0,2,6,0.35,1,1.1,11,4,345,0.78,11,3,0,5,5,group
 29,cameroon,serbia,,,,,,,,,,,,,,,,,,,,,,,,,group
 30,south korea,ghana,,,,,,,,,,,,,,,,,,,,,,,,,group
 31,brazil,switzerland,,,,,,,,,,,,,,,,,,,,,,,,,group
@@ -39,7 +39,7 @@ game,home,away,home_possession,home_goals,home_xgoals,home_shots,home_shotsontar
 38,australia,denmark,,,,,,,,,,,,,,,,,,,,,,,,,group
 39,poland,argentina,,,,,,,,,,,,,,,,,,,,,,,,,group
 40,saudia arabia,mexico,,,,,,,,,,,,,,,,,,,,,,,,,group
-41,croatia,belguim,,,,,,,,,,,,,,,,,,,,,,,,,group
+41,croatia,belgium,,,,,,,,,,,,,,,,,,,,,,,,,group
 42,canada,morocco,,,,,,,,,,,,,,,,,,,,,,,,,group
 43,japan,spain,,,,,,,,,,,,,,,,,,,,,,,,,group
 44,costa rica,germany,,,,,,,,,,,,,,,,,,,,,,,,,group
