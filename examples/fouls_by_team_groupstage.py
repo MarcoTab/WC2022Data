@@ -121,6 +121,7 @@ for tup in histogram_ready:
 plt.ylim(ymax=1, ymin=0)
 
 plt.yticks([])
+# plt.xlim(xmin=)
 plt.xticks(np.arange(round(plt.xlim()[0])-1, plt.xlim()[1]+1, 1))
 plt.suptitle("Histogram showing the number of fouls commited by each team at the group stage", size="xx-large", weight="bold" )
 plt.xlabel("Number of fouls across all group stage matches")
